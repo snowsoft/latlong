@@ -9,10 +9,10 @@ This extension is used to help you select the latitude and longitude in the form
 
 ```bash
 // For laravel-admin 1.x
-composer require laravel-admin-ext/latlong:1.x -vvv
+composer require snowsoft/latlong:1.x -vvv
 
 // For laravel-admin 2.x
-composer require laravel-admin-ext/latlong:2.x -vvv
+composer require snowsoft/latlong:2.x -vvv
 ```
 
 ## Configuration
